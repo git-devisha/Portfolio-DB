@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Chat-AI",
+      "desc": "Chat-AI is a prompt response logging system with metrics including latency, token count, success/failure counts, and more using different charts.",
+      "image": "Chat-AI",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/pantvasu8/Chat-AI"
+      }
+    },
+    {
+      "name": "Chat-Now",
+      "desc": "This realtime chat application offers a range of API endpoints to perform various tasks, enabling users to engage in one-to-one and group conversations seamlessly.",
+      "image": "chat-Now",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/pantvasu8/Chat-Now"
+      }
+    },
+    {
+      "name": "Musicly",
+      "desc": "Musicly is a React-based music application that leverages the Spotify Developer's tools to provide users with a seamless music streaming experience. ",
+      "image": "musicly",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/pantvasu8/MusicLy"
+      }
+    },
+    {
+      "name": "Accenture",
+      "desc": "Developer Virtual Experience Program- Forage",
+      "image": "accenture",
+      "category": "mern",
+      "links": {
+        "view": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_kBQ8s2pqJwG9A4krS_1661661461756_completion_certificate.pdf"
+      }
+    },
+    {
+      "name": "University of Illinois",
+      "desc": "Coursera- Object-Oriented Data Structures in C++",
+      "image": "coursera",
+      "category": "mern",
+      "links": {
+        "view": "https://www.coursera.org/account/accomplishments/verify/GAAN4328N3UX"
+      }
+    },
+    {
+      "name": "Udemy",
+      "desc": "The complete web development course, Certificate of completion",
+      "image": "udemy",
+      "category": "mern",
+      "links": {
+        "view": "https://drive.google.com/file/d/1HQ4y674RqDwtqqZtvBnLKBo297OrIK2n/view"
+      }
+    }
+  ]
